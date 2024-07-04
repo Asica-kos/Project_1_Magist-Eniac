@@ -1,6 +1,6 @@
 # **Project 1 - should Eniac merge with Magist?**
 
-Hello everyone and welcome to have a look at my **_Project 1_**, in which my team and I researched and carefully analysed data extracted from **Magist**.
+Hello everyone and welcome to have a look at my **${\color{green}Project 1}$**, in which my team and I researched and carefully analysed data extracted from **Magist**.
 Our task was to advise on the pros and cons of working with Magist. 
 
 ## How did we obtain and present the data?
