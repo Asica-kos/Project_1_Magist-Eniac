@@ -7,5 +7,5 @@ Our task was to advise on the pros and cons of working with Magist.
 To achieve this, we had to explore the data using **SQL** queries and visualise it nicely in **Tableau** and **Google Presentations**.
 
 ## Acknowledgement
-I would like to thank my teammates: [Alla] (https://github.com/khovalla)and [Garrett] (https://github.com/gte7576) whom I have worked very well together!
+I would like to thank my teammates: [Alla](https://github.com/khovalla) and [Garrett](https://github.com/gte7576) whom I have worked very well together!
 
