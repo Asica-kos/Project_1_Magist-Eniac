@@ -2,7 +2,7 @@
 
 Hello everyone and welcome to have a look at my **${\color{green}Project 1}$**, in which my team and I researched and carefully analysed data extracted from Brazilian company **Magist**.
 Our task was to provide the tech giant Eniac with a detailed analysis of the pros and cons of collaborating with Magist.
-Our objective was to research the Brazilian market anddetermine whether Magist would be a suitable partner for the extensive distribution of Apple products. 
+Our objective was to research the Brazilian market and determine whether Magist would be a suitable partner for the extensive distribution of Apple products. 
 Our approach required a deep dive into data, critical analysis of business questions, and formulating recommendations that would offer the most strategic advantage to Eniac's CEO. 
 
 To provide a thorough recommendation on whether Eniac should partner with Magist for selling Apple products in Brazil, we need to consider several key factors:
